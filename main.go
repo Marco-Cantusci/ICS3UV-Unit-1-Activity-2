@@ -12,5 +12,5 @@ import "fmt"
 func main() {
 	// print out the greeting
 	fmt.Println("Hello, World!")
-	fmt.Println("Done.")
+	fmt.Println("\nDone.")
 }
